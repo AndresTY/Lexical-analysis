@@ -13,4 +13,4 @@ this is a simple program that does he function of the lexical analyzer. find the
 
 This project receives the C or CPP file inside folder, with its own extension or with the extension TXT and returns a CSV with the characters and their corresponding tokens. Already in the program you can see the full summaries for a breakdonm of all the differents types of tokes, particularly for the complete group of tokens and specifically to only know the token that is required.
 
-
+nota: This algorithm is quite expensive at the computational level. Because it is designed to meet the objective, therefore it is not optimized.
