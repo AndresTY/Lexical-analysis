@@ -1,4 +1,4 @@
-#Lexical analyzer project
+# Lexical analyzer project
 
 this is a simple program that does he function of the lexical analyzer. find the tokens of each of the program's declarations.
 
