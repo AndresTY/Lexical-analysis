@@ -1,0 +1,464 @@
+Name Token,token,token class,desc
+#,3,Separator,Special Simbol
+include,2,Keyword, 
+<,4,Operator,Relational operator
+cctype,2,Keyword,Library
+>,4,Operator,Relational operator
+#,3,Separator,Special Simbol
+include,2,Keyword, 
+<,4,Operator,Relational operator
+iostream,2,Keyword,Library
+>,4,Operator,Relational operator
+using,2,Keyword, 
+namespace,2,Keyword, 
+std,2,Keyword, 
+;,3,Separator,Special Simbol
+void,2,Keyword, 
+suma,1,identifier, 
+(,3,Separator,Special Simbol
+),3,Separator,Special Simbol
+{,3,Separator,Special Simbol
+int,2,Keyword, 
+a,1,identifier, 
+=,4,Operator,Asignation operator
+0,5,literal,number
+,,3,Separator,Special Simbol
+b,1,identifier, 
+=,4,Operator,Asignation operator
+0,5,literal,number
+,,3,Separator,Special Simbol
+c,1,identifier, 
+=,4,Operator,Asignation operator
+0,5,literal,number
+;,3,Separator,Special Simbol
+cout,1,identifier, 
+<,4,Operator,Relational operator
+<,4,Operator,Relational operator
+"ingreseunprimervalos",5,literal,string
+<,4,Operator,Relational operator
+<,4,Operator,Relational operator
+endl,1,identifier, 
+;,3,Separator,Special Simbol
+cin,1,identifier, 
+>,4,Operator,Relational operator
+>,4,Operator,Relational operator
+a,1,identifier, 
+;,3,Separator,Special Simbol
+cout,1,identifier, 
+<,4,Operator,Relational operator
+<,4,Operator,Relational operator
+"segundovalor",5,literal,string
+<,4,Operator,Relational operator
+<,4,Operator,Relational operator
+endl,1,identifier, 
+;,3,Separator,Special Simbol
+cin,1,identifier, 
+>,4,Operator,Relational operator
+>,4,Operator,Relational operator
+b,1,identifier, 
+;,3,Separator,Special Simbol
+c,1,identifier, 
+=,4,Operator,Asignation operator
+a,1,identifier, 
++,4,Operator,Math operator
+b,1,identifier, 
+;,3,Separator,Special Simbol
+cout,1,identifier, 
+<,4,Operator,Relational operator
+<,4,Operator,Relational operator
+"resultadoes:",5,literal,string
+<,4,Operator,Relational operator
+<,4,Operator,Relational operator
+c,1,identifier, 
+<,4,Operator,Relational operator
+<,4,Operator,Relational operator
+endl,1,identifier, 
+;,3,Separator,Special Simbol
+},3,Separator,Special Simbol
+void,2,Keyword, 
+pointers,1,identifier, 
+(,3,Separator,Special Simbol
+),3,Separator,Special Simbol
+{,3,Separator,Special Simbol
+int,2,Keyword, 
+a,1,identifier, 
+=,4,Operator,Asignation operator
+234,5,literal,number
+;,3,Separator,Special Simbol
+int,2,Keyword, 
+*,4,Operator,Math operator
+p_a,1,identifier, 
+;,3,Separator,Special Simbol
+cout,1,identifier, 
+<,4,Operator,Relational operator
+<,4,Operator,Relational operator
+"direcciona",5,literal,string
+<,4,Operator,Relational operator
+<,4,Operator,Relational operator
+&,4,Operator,Relational operator
+a,1,identifier, 
+<,4,Operator,Relational operator
+<,4,Operator,Relational operator
+endl,1,identifier, 
+;,3,Separator,Special Simbol
+cout,1,identifier, 
+<,4,Operator,Relational operator
+<,4,Operator,Relational operator
+"direccionp_a",5,literal,string
+<,4,Operator,Relational operator
+<,4,Operator,Relational operator
+&,4,Operator,Relational operator
+p_a,1,identifier, 
+<,4,Operator,Relational operator
+<,4,Operator,Relational operator
+endl,1,identifier, 
+;,3,Separator,Special Simbol
+p_a,1,identifier, 
+=,4,Operator,Asignation operator
+&,4,Operator,Relational operator
+a,1,identifier, 
+;,3,Separator,Special Simbol
+cout,1,identifier, 
+<,4,Operator,Relational operator
+<,4,Operator,Relational operator
+"contenidop_a",5,literal,string
+<,4,Operator,Relational operator
+<,4,Operator,Relational operator
+*,4,Operator,Math operator
+p_a,1,identifier, 
+<,4,Operator,Relational operator
+<,4,Operator,Relational operator
+endl,1,identifier, 
+;,3,Separator,Special Simbol
+cin,1,identifier, 
+>,4,Operator,Relational operator
+>,4,Operator,Relational operator
+*,4,Operator,Math operator
+p_a,1,identifier, 
+;,3,Separator,Special Simbol
+cout,1,identifier, 
+<,4,Operator,Relational operator
+<,4,Operator,Relational operator
+"contenidop_a",5,literal,string
+<,4,Operator,Relational operator
+<,4,Operator,Relational operator
+*,4,Operator,Math operator
+p_a,1,identifier, 
+<,4,Operator,Relational operator
+<,4,Operator,Relational operator
+endl,1,identifier, 
+;,3,Separator,Special Simbol
+cout,1,identifier, 
+<,4,Operator,Relational operator
+<,4,Operator,Relational operator
+"contenidoa",5,literal,string
+<,4,Operator,Relational operator
+<,4,Operator,Relational operator
+a,1,identifier, 
+<,4,Operator,Relational operator
+<,4,Operator,Relational operator
+endl,1,identifier, 
+;,3,Separator,Special Simbol
+},3,Separator,Special Simbol
+double,2,Keyword, 
+temp,1,identifier, 
+;,3,Separator,Special Simbol
+double,2,Keyword, 
+*,4,Operator,Math operator
+temp_,1,identifier, 
+;,3,Separator,Special Simbol
+void,2,Keyword, 
+converter,1,identifier, 
+(,3,Separator,Special Simbol
+char,2,Keyword, 
+a_,1,identifier, 
+,,3,Separator,Special Simbol
+char,2,Keyword, 
+b_,1,identifier, 
+),3,Separator,Special Simbol
+{,3,Separator,Special Simbol
+if,2,Keyword, 
+(,3,Separator,Special Simbol
+tolower,1,identifier, 
+(,3,Separator,Special Simbol
+a_,1,identifier, 
+),3,Separator,Special Simbol
+=,4,Operator,Asignation operator
+=,4,Operator,Asignation operator
+'c',5,literal,string
+&,4,Operator,Relational operator
+&,4,Operator,Relational operator
+tolower,1,identifier, 
+(,3,Separator,Special Simbol
+b_,1,identifier, 
+),3,Separator,Special Simbol
+=,4,Operator,Asignation operator
+=,4,Operator,Asignation operator
+'f',5,literal,string
+),3,Separator,Special Simbol
+{,3,Separator,Special Simbol
+*,4,Operator,Math operator
+temp_,1,identifier, 
+=,4,Operator,Asignation operator
+(,3,Separator,Special Simbol
+temp,1,identifier, 
+*,4,Operator,Math operator
+9,5,literal,number
+/,4,Operator,Math operator
+5,5,literal,number
+),3,Separator,Special Simbol
++,4,Operator,Math operator
+32,5,literal,number
+;,3,Separator,Special Simbol
+},3,Separator,Special Simbol
+if,2,Keyword, 
+(,3,Separator,Special Simbol
+tolower,1,identifier, 
+(,3,Separator,Special Simbol
+a_,1,identifier, 
+),3,Separator,Special Simbol
+=,4,Operator,Asignation operator
+=,4,Operator,Asignation operator
+'f',5,literal,string
+&,4,Operator,Relational operator
+&,4,Operator,Relational operator
+tolower,1,identifier, 
+(,3,Separator,Special Simbol
+b_,1,identifier, 
+),3,Separator,Special Simbol
+=,4,Operator,Asignation operator
+=,4,Operator,Asignation operator
+'c',5,literal,string
+),3,Separator,Special Simbol
+{,3,Separator,Special Simbol
+*,4,Operator,Math operator
+temp_,1,identifier, 
+=,4,Operator,Asignation operator
+(,3,Separator,Special Simbol
+temp,1,identifier, 
+-,4,Operator,Math operator
+32,5,literal,number
+),3,Separator,Special Simbol
+*,4,Operator,Math operator
+5,5,literal,number
+/,4,Operator,Math operator
+9,5,literal,number
+;,3,Separator,Special Simbol
+},3,Separator,Special Simbol
+if,2,Keyword, 
+(,3,Separator,Special Simbol
+tolower,1,identifier, 
+(,3,Separator,Special Simbol
+a_,1,identifier, 
+),3,Separator,Special Simbol
+=,4,Operator,Asignation operator
+=,4,Operator,Asignation operator
+'c',5,literal,string
+&,4,Operator,Relational operator
+&,4,Operator,Relational operator
+tolower,1,identifier, 
+(,3,Separator,Special Simbol
+b_,1,identifier, 
+),3,Separator,Special Simbol
+=,4,Operator,Asignation operator
+=,4,Operator,Asignation operator
+'k',5,literal,string
+),3,Separator,Special Simbol
+{,3,Separator,Special Simbol
+*,4,Operator,Math operator
+temp_,1,identifier, 
+=,4,Operator,Asignation operator
+temp,1,identifier, 
++,4,Operator,Math operator
+273,5,literal,number
+.,3,Separator,Special Simbol
+15,5,literal,number
+;,3,Separator,Special Simbol
+},3,Separator,Special Simbol
+if,2,Keyword, 
+(,3,Separator,Special Simbol
+tolower,1,identifier, 
+(,3,Separator,Special Simbol
+a_,1,identifier, 
+),3,Separator,Special Simbol
+=,4,Operator,Asignation operator
+=,4,Operator,Asignation operator
+'k',5,literal,string
+&,4,Operator,Relational operator
+&,4,Operator,Relational operator
+tolower,1,identifier, 
+(,3,Separator,Special Simbol
+b_,1,identifier, 
+),3,Separator,Special Simbol
+=,4,Operator,Asignation operator
+=,4,Operator,Asignation operator
+'c',5,literal,string
+),3,Separator,Special Simbol
+{,3,Separator,Special Simbol
+*,4,Operator,Math operator
+temp_,1,identifier, 
+=,4,Operator,Asignation operator
+temp,1,identifier, 
+-,4,Operator,Math operator
+273,5,literal,number
+.,3,Separator,Special Simbol
+15,5,literal,number
+;,3,Separator,Special Simbol
+},3,Separator,Special Simbol
+if,2,Keyword, 
+(,3,Separator,Special Simbol
+tolower,1,identifier, 
+(,3,Separator,Special Simbol
+a_,1,identifier, 
+),3,Separator,Special Simbol
+=,4,Operator,Asignation operator
+=,4,Operator,Asignation operator
+'f',5,literal,string
+&,4,Operator,Relational operator
+&,4,Operator,Relational operator
+tolower,1,identifier, 
+(,3,Separator,Special Simbol
+b_,1,identifier, 
+),3,Separator,Special Simbol
+=,4,Operator,Asignation operator
+=,4,Operator,Asignation operator
+'k',5,literal,string
+),3,Separator,Special Simbol
+{,3,Separator,Special Simbol
+*,4,Operator,Math operator
+temp_,1,identifier, 
+=,4,Operator,Asignation operator
+(,3,Separator,Special Simbol
+(,3,Separator,Special Simbol
+temp,1,identifier, 
+-,4,Operator,Math operator
+32,5,literal,number
+),3,Separator,Special Simbol
+*,4,Operator,Math operator
+5,5,literal,number
+/,4,Operator,Math operator
+9,5,literal,number
+),3,Separator,Special Simbol
++,4,Operator,Math operator
+273,5,literal,number
+.,3,Separator,Special Simbol
+15,5,literal,number
+;,3,Separator,Special Simbol
+},3,Separator,Special Simbol
+if,2,Keyword, 
+(,3,Separator,Special Simbol
+tolower,1,identifier, 
+(,3,Separator,Special Simbol
+a_,1,identifier, 
+),3,Separator,Special Simbol
+=,4,Operator,Asignation operator
+=,4,Operator,Asignation operator
+'k',5,literal,string
+&,4,Operator,Relational operator
+&,4,Operator,Relational operator
+tolower,1,identifier, 
+(,3,Separator,Special Simbol
+b_,1,identifier, 
+),3,Separator,Special Simbol
+=,4,Operator,Asignation operator
+=,4,Operator,Asignation operator
+'f',5,literal,string
+),3,Separator,Special Simbol
+{,3,Separator,Special Simbol
+*,4,Operator,Math operator
+temp_,1,identifier, 
+=,4,Operator,Asignation operator
+(,3,Separator,Special Simbol
+(,3,Separator,Special Simbol
+temp,1,identifier, 
+-,4,Operator,Math operator
+273,5,literal,number
+.,3,Separator,Special Simbol
+15,5,literal,number
+),3,Separator,Special Simbol
+*,4,Operator,Math operator
+9,5,literal,number
+/,4,Operator,Math operator
+5,5,literal,number
+),3,Separator,Special Simbol
++,4,Operator,Math operator
+32,5,literal,number
+;,3,Separator,Special Simbol
+},3,Separator,Special Simbol
+},3,Separator,Special Simbol
+int,2,Keyword, 
+main,1,identifier, 
+(,3,Separator,Special Simbol
+),3,Separator,Special Simbol
+{,3,Separator,Special Simbol
+char,2,Keyword, 
+a,1,identifier, 
+,,3,Separator,Special Simbol
+b,1,identifier, 
+;,3,Separator,Special Simbol
+temp_,1,identifier, 
+=,4,Operator,Asignation operator
+&,4,Operator,Relational operator
+temp,1,identifier, 
+;,3,Separator,Special Simbol
+//suma,6,commet, 
+(,3,Separator,Special Simbol
+),3,Separator,Special Simbol
+;,3,Separator,Special Simbol
+//pointers,6,commet, 
+(,3,Separator,Special Simbol
+),3,Separator,Special Simbol
+;,3,Separator,Special Simbol
+cout,1,identifier, 
+<,4,Operator,Relational operator
+<,4,Operator,Relational operator
+"digitetemptotemp",5,literal,string
+<,4,Operator,Relational operator
+<,4,Operator,Relational operator
+endl,1,identifier, 
+;,3,Separator,Special Simbol
+cin,1,identifier, 
+>,4,Operator,Relational operator
+>,4,Operator,Relational operator
+a,1,identifier, 
+>,4,Operator,Relational operator
+>,4,Operator,Relational operator
+b,1,identifier, 
+;,3,Separator,Special Simbol
+cout,1,identifier, 
+<,4,Operator,Relational operator
+<,4,Operator,Relational operator
+"digitelatemperatura",5,literal,string
+<,4,Operator,Relational operator
+<,4,Operator,Relational operator
+endl,1,identifier, 
+;,3,Separator,Special Simbol
+cin,1,identifier, 
+>,4,Operator,Relational operator
+>,4,Operator,Relational operator
+*,4,Operator,Math operator
+temp_,1,identifier, 
+;,3,Separator,Special Simbol
+converter,1,identifier, 
+(,3,Separator,Special Simbol
+a,1,identifier, 
+,,3,Separator,Special Simbol
+b,1,identifier, 
+),3,Separator,Special Simbol
+;,3,Separator,Special Simbol
+cout,1,identifier, 
+<,4,Operator,Relational operator
+<,4,Operator,Relational operator
+*,4,Operator,Math operator
+temp_,1,identifier, 
+<,4,Operator,Relational operator
+<,4,Operator,Relational operator
+endl,1,identifier, 
+;,3,Separator,Special Simbol
+return,2,Keyword, 
+0,5,literal,number
+;,3,Separator,Special Simbol
+},3,Separator,Special Simbol
+},3,Separator,Special Simbol
+},3,Separator,Special Simbol
+},3,Separator,Special Simbol
