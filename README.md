@@ -4,7 +4,7 @@ this is a simple program that does he function of the lexical analyzer. find the
 
 |token|values|
 |---|---|
-|identifier|non-system specific variables and declarations|
+|identifier|names the programmer chooses|
 |keyword|system reserved words|
 |separator|Punctuation characters and paired-delimiters|
 |operator|symbols that operate on arguments and produce results|
