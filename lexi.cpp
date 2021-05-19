@@ -240,8 +240,3 @@ void start(){
 		}
 	}while(t);
 }
-
-int main(){
-	start();
-	return 0;
-}
