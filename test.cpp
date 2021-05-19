@@ -1,4 +1,4 @@
-#include "lexi.cpp"
+#include "lexi.h"
 
 int main(){
 	start();
